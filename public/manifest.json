@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Mentorpick userId",
+  "version": "1.0.0",
+  "description": "A Chrome extension to display mentorpick UserId",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "icons":{
+    "32": "mplogo.png"
+  }
+}
+
